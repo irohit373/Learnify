@@ -1,4 +1,4 @@
-import LearnifyLogo from 'logo.png'
+import LearnifyLogo from '/logo.png'
 import './App.css'
 
 function App() {
