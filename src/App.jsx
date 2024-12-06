@@ -6,8 +6,8 @@ function App() {
   return (
     <>
       <div>
-        <a href="https://vite.dev" target="_blank">
-          <img src={LearnifyLogo} className="logo" alt="Vite logo" />
+        <a href="https://learnify-coral.vercel.div" target="_blank">
+          <img src={LearnifyLogo} className="logo" alt="Learnify logo" />
         </a>
       </div>
       <h1>Learnify</h1>
